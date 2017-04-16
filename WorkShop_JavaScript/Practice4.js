@@ -1,3 +1,4 @@
+/RUNTIME METHODS
 var methodName = "Burrito";
 class Foo{
   cosntructor(){}
