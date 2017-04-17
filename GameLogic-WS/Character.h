@@ -14,9 +14,11 @@ class Character{
   
   public:
     Character();
+    Character(string n);
     ~Character();
   
     int GetHealth();
     void Damage(int amount);
     string GetName();
+    void SetName(string n);
 };
