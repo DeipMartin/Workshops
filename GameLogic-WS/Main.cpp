@@ -1,11 +1,11 @@
 #include <iostream>
 #include <string>
 
-#include "Character.h"
+#include "Player.h"
 using namespace std;
 
 int main(void){
-  Character c = Character("BOB");
+  Player c = Player("BOB");
   cout<< c.GetName()<< " ; " << c.GetHealth();
   cin.get();
   
