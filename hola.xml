@@ -75,63 +75,7 @@
 					<campoe>1076642784</campoe>
 					<campot>Jorge Romos</campot>
 				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-				<tabla>
-					<campoe>1076642784</campoe>
-					<campot>Jorge Romos</campot>
-				</tabla>
-			<usuario>
+			</usuario>
 			<instancias>
 				<tabla>
 					<campot>hola mundo</campot>
@@ -259,6 +203,78 @@
 					<campof>10/10/2010</campof>
 				</tabla>
 			</instancias>
+			<lenguajes>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</lenguajes>
+			<ideales>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</ideales>
+			<atributos>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</atributos>
+			<metodos>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</metodos>
+			<instrucciones>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</instrucciones>
+			<tiposatributo>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</tiposatributo>
+			<decisiones>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</decisiones>
+			<asignaciones>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</asignaciones>
+			<tipo_instrucciones>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</tipo_instrucciones>
+			<expresiones_formales>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</expresiones_formales>
+			<tokens>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</tokens>
+			<tipos_token>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			</tipos_token>
 		</bd>
 	</xbd>
 <?xml version="1.0" encoding="UTF-8"?>
