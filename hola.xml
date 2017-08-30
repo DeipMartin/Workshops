@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<xbd>
+		<bd>
+			<tabla>
+				<campot tipodato="texto"/> 
+				<campoe tipodato="entero"/> 
+				<campod tipodato="decimal"/> 
+				<campol tipodato="logico"/> 
+				<campof tipodato="fecha"/> 
+			</tabla>
+			<ontologia>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+				<tabla>
+					<campoe>2131132311</campoe>
+					<campoe>1213212332</campoe>
+				</tabla>
+			</ontologia>
+			<usuario>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+				<tabla>
+					<campoe>1076642784</campoe>
+					<campot>Jorge Romos</campot>
+				</tabla>
+			<usuario>
+			<instancias>
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>mundo</campot>
+					<campoe>100000</campoe>
+					<campod>3.12</campod>
+					<campol>si</campol>
+					<campof>11/11/2011</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+				<tabla>
+					<campot>hola mundo</campot>
+					<campoe>10</campoe>
+					<campod>3.141596</campod>
+					<campol>falso</campol>
+					<campof>10/10/2010</campof>
+				</tabla>
+			</instancias>
+		</bd>
+	</xbd>
+<?xml version="1.0" encoding="UTF-8"?>
